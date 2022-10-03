@@ -1,4 +1,6 @@
 # GitHub-Pages
-Peng's User Page
-C++ is powerful, but C is understandable
+Peng's User Page.
+
+C++ is powerful, C is understandable, but Python is so much easier.
+
 
