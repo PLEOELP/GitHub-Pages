@@ -1,4 +1,5 @@
 # **Peng Luo**
+![This is an image](Picture.JPG)
 ## **Menu:**
 1. [Status](##**Status:**)
 2. [Interest](##**Interest:**)
